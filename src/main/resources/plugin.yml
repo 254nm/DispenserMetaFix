@@ -1,0 +1,6 @@
+name: DispenserMetaFix
+version: ${project.version}
+main: org.l2x9.dispensermetafix.Dispensermetafix
+authors: [254n_m]
+description: Fixes the free roam 32k thing
+website: www.l2x0.org
